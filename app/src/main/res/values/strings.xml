@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson-7</string>
+    <string name="start">Start</string>
+    <string name="test">Test</string>
+    <string name="operation_start">Операция выполняется</string>
+    <string name="operation_finish">Операция выполнена</string>
+</resources>
